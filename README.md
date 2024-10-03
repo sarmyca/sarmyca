@@ -1,5 +1,5 @@
 # 👨‍🎓 About Me:
-Hi, I'm Marin! 👋<br><br>💻 I'm a passionate Computer Science student dedicated to honing my skills and continuously improving my craft.<br>🎓 Currently pursuing my degree at the [Faculty of Electrical Engineering and Computing in Zagreb](https://www.fer.unizg.hr/en), Croatia.<br><br>🧠 As a third-year student, I thrive in collaborative environments and enjoy effective communication with peers.<br>⚙️ My adaptability allows me to seamlessly integrate into diverse working contexts, while my methodical and diligent approach drives me to pursue excellence in every project I undertake.
+Hi, I'm Marin! 👋<br><br>💻 I'm a passionate Computer Science student dedicated to honing my skills and continuously improving my craft.<br>🎓 Currently pursuing my degree at the [Faculty of Electrical Engineering and Computing in Zagreb](https://www.fer.unizg.hr/en), Croatia.
 
 
 
