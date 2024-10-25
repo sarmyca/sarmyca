@@ -13,7 +13,7 @@ Hi, I'm Marin! 👋<br><br>💻 I'm a passionate Computer Science student dedica
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarmyca&theme=radical&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarmyca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sarmyca&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarmyca&icon=2&color=4)](https://visitcount.itsvg.in)
